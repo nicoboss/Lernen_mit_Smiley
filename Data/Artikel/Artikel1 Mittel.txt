@@ -1,0 +1,28 @@
+;Artikeldatei mit 26 mittelschwere Wörter
+
+Akte (Schriftstück)=2
+Ameise=2
+Angel=1
+Band (Buch)=2
+Bank (Sitzgelegenheit)=1
+Bank (Geldinstitut)=2
+Beere=2
+Bleistift=1
+Bund (Hosenbund)=1
+Butter=2
+Ecke=2
+Efeu=3
+Ekel (Abscheu)=1
+Dschungel=1
+Fahne=2
+Ferse=2
+Floh=2
+Flur (Korridor)=1
+Gefallen (Gefälligkeit)=1
+Giraffe=2
+Griess=1
+Kaffee=1
+Käfig=3
+Kamin=1
+Kartoffel=2
+Kino=3

@@ -1,0 +1,27 @@
+;Artikeldatei mit 25 mittelschwere Wörter
+
+Koffer=1
+Kunde (Käufer)=1
+Lüge=2
+Socke=2
+Spital=3
+Spitze=2
+Wespe=2
+Zehe=2
+Mais=1
+Mark (Knochengewebe)=3
+Messer (Schneidgerät)=3
+Moment (Augenblick)=1
+Reis (Nahrungsmittel)=1
+Sand=1
+Schild (Erkennungszeichen)=3
+Stift (Bleistift; Lehrling)=1
+Tee=1
+Tor=3
+Tunnel=1
+Lied=3
+Quelle=2
+Glas=3
+Zug (Eisenbahn)=1
+Schlaf=1
+Katze=1
