@@ -1,21 +1,3 @@
-
-;###############################################################################
-;	Lernen mi Smiley
-;	=============
-;###############################################################################
-;	Lernen mit Smiley ist ein Lernprogramm für Primarschüler der 3. - 5. Klasse. Es gibt
-;	20 Aufgaben (darunter auch einige Spiele als kleine Belohnung), die je nach
-;	gewählter Schwierigkeitsstufe den entsprechenden Schulstoff mit Spass
-;	wiederholen. Man kann zwischen vier Schwierigkeitsstufen auswählen. Die Aufgaben
-;	sind aus dem Bereich Mathematik, Deutsch und ein wenig M&U (Grundwissen) aus
-;	meinem Schulstoff der 3. - 5. Primarklasse. Die Spielidee ist, dass man meine
-;	Abenteuergeschichte durchspielt und so die einzelnen Aufgaben nacheinander lösen
-;	muss.
-;###############################################################################
-;	Made by Nico Bosshard
-;###############################################################################
-
-
 AppTitle "Lernen mit Smiley"
 
 Global filename$
